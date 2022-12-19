@@ -1,0 +1,4 @@
+﻿  BasicGame.cpp
+D:\Stuff\source\repos\BasicGame\BasicGame\BasicGame.cpp(86,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\BasicGame\BasicGame\BasicGame.cpp(63,30): warning C4101: p: неиспользованная локальная переменная
+  BasicGame.vcxproj -> D:\Stuff\source\repos\BasicGame\Debug\BasicGame.exe
